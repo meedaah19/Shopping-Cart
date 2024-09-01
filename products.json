@@ -43,7 +43,7 @@
     {
       "sys": { "id": "6" },
       "fields": {
-        "title": "fridge",
+        "title": "kitchen stool",
         "price": 37.99,
         "image": { "fields": { "file": { "url": "./images/product-5.jpeg" } } }
       }
@@ -62,6 +62,70 @@
         "title": "table",
         "price": 19.99,
         "image": { "fields": { "file": { "url": "./images/product-8.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "cushing chair",
+        "price": 19.99,
+        "image": { "fields": { "file": { "url": "./images/download-4.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "two sitter chair",
+        "price": 19.99,
+        "image": { "fields": { "file": { "url": "./images/download-3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "dinning chair",
+        "price": 19.99,
+        "image": { "fields": { "file": { "url": "./images/download-2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "chair & stool",
+        "price": 19.99,
+        "image": { "fields": { "file": { "url": "./images/download-1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "13" },
+      "fields": {
+        "title": "wooden dinning chair",
+        "price": 19.99,
+        "image": { "fields": { "file": { "url": "./images/download-5.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "kitchen furniture",
+        "price": 19.99,
+        "image": { "fields": { "file": { "url": "./images/download-6.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "13" },
+      "fields": {
+        "title": "bedroom wardrobe",
+        "price": 19.99,
+        "image": { "fields": { "file": { "url": "./images/download-7.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "14" },
+      "fields": {
+        "title": "wardrobe",
+        "price": 19.99,
+        "image": { "fields": { "file": { "url": "./images/download-8.jpg" } } }
       }
     }
   ]

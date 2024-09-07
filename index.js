@@ -8,6 +8,16 @@ const cartTotal = document.querySelector('.cart-total');
 const cartContent = document.querySelector('.cart-content');
 const productsDOM = document.querySelector('.products-center');
 
+// JavaScript to toggle the menu display
+const menuIcon = document.getElementById('menu-icon');
+const navList = document.getElementById('nav-list');
+
+menuIcon.addEventListener('click', () => {
+  navList.classList.toggle('show');
+});
+
+
+
 let cart = [];
 
 let buttonsDOM = [];
